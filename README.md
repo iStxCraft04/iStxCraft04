@@ -1,4 +1,4 @@
-# Mi Github
+#               Mi Github
 
 En el encontraras códigos que suba de pequeñas cosas básicas que haya hecho programando. 
 
@@ -6,15 +6,17 @@ En el encontraras códigos que suba de pequeñas cosas básicas que haya hecho p
 
 ![banner](https://i.imgur.com/kjRgLjh.jpg)
 
-### Lenguajes que manejo
+###            Lenguajes que manejo
+#
 
-Lenguajes que se |
+Lenguaje         |
 -----------------|
 JavaScript       |
 HTML             |
 CSS              |  
                                                 
-### Contacto
+###            Contacto
+#
 
 **Discord: iStxCraft#2672**
 
