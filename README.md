@@ -10,6 +10,7 @@ En el encontraras códigos que suba de pequeñas cosas básicas que haya hecho p
 
 #
 
+
 Lenguaje         |
 -----------------|
 JavaScript       |
@@ -21,6 +22,7 @@ PHP para DB      |
 ###            Contacto
 
 #
+
 
 **Discord: iStxCraft#2672**
 
