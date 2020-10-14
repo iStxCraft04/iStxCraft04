@@ -6,7 +6,7 @@ En el encontraras códigos que suba de pequeñas cosas básicas que haya hecho p
 
 ![banner](https://i.imgur.com/kjRgLjh.jpg)
 
-----
+###Lenguajes que manejo
 
 Lenguajes que se |
 -----------------|
@@ -14,9 +14,9 @@ JavaScript       |
 HTML             |
 CSS              |  
                                                 
-------------
+###Contacto
 
 **Discord: iStxCraft#2672**
 
-------------
+#
 
