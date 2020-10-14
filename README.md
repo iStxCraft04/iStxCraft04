@@ -7,8 +7,8 @@ En el encontraras códigos que suba de pequeñas cosas básicas que haya hecho p
 ![banner](https://i.imgur.com/kjRgLjh.jpg)
 
 ###            Lenguajes que manejo
-#
 
+#
 
 Lenguaje         |
 -----------------|
@@ -19,6 +19,7 @@ PHP para DB      |
 
                                                 
 ###            Contacto
+
 #
 
 **Discord: iStxCraft#2672**
