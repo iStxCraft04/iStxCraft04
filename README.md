@@ -4,11 +4,15 @@ En el encontraras códigos que suba de pequeñas cosas básicas que haya hecho p
 
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=iStxCraft04.visitor-badge)                                  
 
-![banner](https://i.imgur.com/kjRgLjh.jpg)      Lenguajes que se |
-                                                -----------------|
-                                                JavaScript       |
-                                                HTML             |
-                                                CSS              |                 
+![banner](https://i.imgur.com/kjRgLjh.jpg)
+
+-
+
+Lenguajes que se |
+-----------------|
+JavaScript       |
+HTML             |
+CSS              |  
                                                 
 ------------
 
