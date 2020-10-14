@@ -14,9 +14,11 @@ En el encontraras códigos que suba de pequeñas cosas básicas que haya hecho p
 Lenguaje         |
 -----------------|
 JavaScript       |
+JSON             |
 HTML             |
 CSS              |
 PHP para DB      |
+
 
                                                 
 ###                                    Contacto
