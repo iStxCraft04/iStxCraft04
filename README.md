@@ -11,7 +11,7 @@ En el encontraras códigos que suba de pequeñas cosas básicas que haya hecho p
 Lenguajes que se |
 -----------------|-----------------
 JavaScript       |
-HTML             |![logo](https://i.imgur.com/OYihAxF.png)
+HTML             |
 CSS              |  
                                                 
 ------------
